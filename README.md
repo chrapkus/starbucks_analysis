@@ -5,6 +5,8 @@ Analyse structure of customers:
 * Gender distribution
 * Spendings distribution
 
+Create model able to predict if offer will be successful based on demografic information about customers, previus purchases and offer desciption.
+
 # Used libraries
 * pandas
 * math
