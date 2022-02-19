@@ -111,6 +111,8 @@ def train_predict_result(model, X_train, y_train, X_test, y_test, plot = False):
     return results
 
 
+# Source - https://scikit-learn.org/stable/auto_examples/model_selection/plot_learning_curve.html
+
 def plot_learning_curve(
     estimator,
     title,
